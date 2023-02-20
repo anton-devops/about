@@ -1,6 +1,6 @@
 Availible url
 -------------------
-https://manbojack.github.io/cv
+https://manbojack.github.io/resume
 
 
 Directory Structure
