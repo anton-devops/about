@@ -1,7 +1,6 @@
 Availible url
 -------------------
-https://manbojack.github.io/resume
-
+https://anton-devops.github.io/resume
 
 Directory Structure
 -------------------
